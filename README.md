@@ -5,6 +5,9 @@ This project was completed during my internship at CodeClause. It focuses on det
 ## Dataset Link :
 https://www.kaggle.com/datasets/ashishjangra27/face-mask-12k-images-dataset
 
+## Trained Model :
+https://drive.google.com/file/d/1EYOgwSA0ZbrYPakddbZrXunNX9Ezo0rP/view?usp=sharing
+
 ## Introduction
 
 This project focuses on face mask detection using Convolutional Neural Networks (CNNs). It was completed as part of my internship at CodeClause. The goal is to determine whether a person in an image is wearing a face mask or not.
